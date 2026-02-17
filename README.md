@@ -12,16 +12,16 @@
 
 ## Como executar 
 1. Clonar o repositório: 
-` git clone https://github.com/AmonKooss/sistema-cadastro.git`
+- `git clone https://github.com/AmonKooss/sistema-cadastro.git`
 
 2. Acessar a pasta do projeto:
-`cd sistema-cadastro`
+- `cd sistema-cadastro`
 
 3. Executar o sistema:
-`python main.py`
+- `python main.py`
 
 ## Objetivo
-- Pequeno projeto para praticar:
++ Pequeno projeto para praticar:
 + Estruturação de sistemas em Python
 + Organização de código
 + Manipulação de arquivos
