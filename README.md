@@ -1,28 +1,43 @@
-# Sistema de Cadastro (Terminal) 
+# 📋 Sistema de Cadastro (Terminal)
 
-- Sistema de cadastro de pessoas utilizando manipulação de arquivos `.txt` para armazenar dados.
+Sistema de cadastro via linha de comando que armazena dados em
+arquivos `.txt`, desenvolvido como primeiro projeto prático em Python.
 
-## Funcionalidades
-- Criar arquivos de cadastro
-- Excluir arquivo
-- Cadastrar nova pessoa (ID, Nome e Idade)
-- Listar pessoas cadastradas
-- Remover pessoa por ID
-- Organização automática dos arquivos em diretório próprio
+---
 
-## Como executar 
-1. Clonar o repositório: 
-- `git clone https://github.com/AmonKooss/sistema-cadastro.git`
+##  Funcionalidades
 
-2. Acessar a pasta do projeto:
-- `cd sistema-cadastro`
+-  Criar e excluir arquivos de cadastro
+-  Cadastrar pessoa (ID, Nome, Idade)
+-  Listar pessoas cadastradas
+-  Remover pessoa por ID
+-  Organização automática dos arquivos em diretório próprio
 
-3. Executar o sistema:
-- `python main.py`
+---
 
-## Objetivo
-+ Pequeno projeto para praticar:
-+ Estruturação de sistemas em Python
-+ Organização de código
-+ Manipulação de arquivos
-+ Lógica de CRUD˝
+##  Tecnologias
+
+| Tecnologia | Uso |
+|---|---|
+| Python 3.x | Linguagem principal |
+| Manipulação de arquivos `.txt` | Persistência de dados |
+| Módulos nativos (`os`, `json`) | Organização e leitura de arquivos |
+
+---
+
+##  Como executar
+
+**Pré-requisitos:** Python 3.8+
+
+```bash
+# Clone o repositório
+git clone https://github.com/AmonKooss/sistema-cadastro-python.git
+cd sistema-cadastro-python
+
+# Execute
+python main.py
+```
+
+---
+
+## 📁 Estrutura do projeto
