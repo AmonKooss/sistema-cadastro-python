@@ -40,4 +40,3 @@ python main.py
 
 ---
 
-## 📁 Estrutura do projeto
